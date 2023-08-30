@@ -1,2 +1,5 @@
-# task-2-currency-convertor
-I have created currency convertor project using html css javascript
+# Exchange-center
+A Simple Exchange currency calculator with Exchange Rate API.
+
+## Demo
+https://vivekdogra02.github.io/Exchange-center/
